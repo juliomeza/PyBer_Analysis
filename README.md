@@ -22,6 +22,7 @@ The great majority of the drivers are concentrated in the Urban cities, with a w
 
 <img src="https://github.com/juliomeza/PyBer_Analysis/blob/main/analysis/Fig7.png">
 
+The Urban cities fare surpass the Suburban and Rural cities for more than double and cuadruple over the period between January and April of 2019.
 
 <img src="https://github.com/juliomeza/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png">
 
