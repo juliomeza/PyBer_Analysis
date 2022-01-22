@@ -32,3 +32,6 @@ The Urban cities fare surpass the Suburban and Rural cities for more than double
 2. I will recommend using the Suburban cities to experiment with different types of strategies or campaigns since those cities are more lucrative than Urban cities.
 3. I will also suggest doing a geographic analysis to understand how cities that are closer to each other behave.
 4. One more suggestion will be to analyze the data per hour and weekdays.
+
+## Notes
+I have changed the colors and the legend labels position on the Summary Chart (Total Fare by City Type), to match all previous charts.
